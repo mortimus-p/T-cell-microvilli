@@ -3,8 +3,7 @@
 Detecting and tracing actin protrusions in T-cells. 
 
 This repository contains the scripts used to detect and track actin protrusions
-used in the manuscript: "Nanoconfinement as a mechanobiological stimulus to 
-boost T-cell activation and expansion" by Aramesh et al.
+used in the manuscript: "Nanoconfinement of Microvilli Alters Gene Expression and Boosts T cell Activation" by Aramesh et al.
 
 The following Python package versions are used:<br>
 <pre>
