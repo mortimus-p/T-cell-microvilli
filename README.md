@@ -1,11 +1,11 @@
 This repository contains the data and scripts for the manuscript: "Nanoconfinement of Microvilli Alters Gene Expression and Boosts T cell Activation" by Aramesh et al. 
 It contains :
 
-1- Raw data for gene transcriptomics (porous/non-porous +/- samples with 3 replicates)
-2- R code used for the analysis of the diffrentially expressed genes
-3- Python code for image analysis of the protrusions in T cells
+# 1_ Gene Transcriptomics 
+a) Raw data for gene transcriptomics (porous/non-porous +/- samples with 3 replicates)
+b) R code used for the analysis of the diffrentially expressed genes
 
-# Protrusions in T-Cells
+# 2_ Image analysis
 
 Detecting and tracing actin protrusions in T-cells. 
 
